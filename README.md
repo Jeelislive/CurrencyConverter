@@ -20,22 +20,6 @@ CurrencyConverter is a simple and efficient web application that allows users to
 - CSS3 (with Tailwind CSS)
 - Vite as the build tool
 
----
-
-## Project Structure
-
-CurrencyConverter/
-├── public/ # Static assets and HTML files
-├── src/ # Source code for the app
-│ ├── components/ # Reusable UI components
-│ └── main.js # Main JavaScript entry point
-├── .gitignore # Git ignore rules
-├── package.json # Project dependencies and scripts
-├── postcss.config.js # PostCSS configuration
-├── tailwind.config.js # Tailwind CSS configuration
-├── vite.config.js # Vite build configuration
-└── README.md # Project documentation
-
 
 ---
 
